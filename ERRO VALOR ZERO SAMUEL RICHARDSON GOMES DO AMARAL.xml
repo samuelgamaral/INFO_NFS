@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NFSE xsi:schemaLocation="https://iss.fortaleza.ce.gov.br/grpfor/schema/V2/tipos_v02.xsd" xmlns="http://www.ginfes.com.br/tipos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Nfse>
+        <IdentificacaoNfse>
+            <Numero>18</Numero>
+            <CodigoVerificacao>456132455</CodigoVerificacao>
+        </IdentificacaoNfse>
+        <DataEmissao>2024-07-12T14:12:09.802-03:00</DataEmissao>
+        <NaturezaOperacao>1</NaturezaOperacao>
+        <RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+        <OptanteSimplesNacional>1</OptanteSimplesNacional>
+        <IncetivadorCultural>2</IncetivadorCultural>
+        <Competencia>2024-06-01-03:00</Competencia>
+        <Servico>
+            <Valores>
+                <ValorServicos>-11000</ValorServicos>
+                <IssRetido>2</IssRetido>
+                <ValorIss>238.7</ValorIss>
+                <BaseCalculo>11000</BaseCalculo>
+                <Aliquota>2.17</Aliquota>
+                <ValorLiquidoNfse>11000</ValorLiquidoNfse>
+                <ValorIssRetido>0</ValorIssRetido>
+            </Valores>
+            <ItemListaServico>107</ItemListaServico>
+            <CodigoTributacaoMunicipio>620910001</CodigoTributacaoMunicipio>
+            <Discriminacao>EMPRESA OPTANTE DO SIMPLES NACIONAL NAO RETEM IMPOSTOS FEDERAIS</Discriminacao>
+            <MunicipioPrestacaoServico>2304400</MunicipioPrestacaoServico>
+        </Servico>
+        <ValorCredito>0</ValorCredito>
+        <PrestadorServico>
+            <IdentificacaoPrestador>
+                <Cnpj>98984352000123</Cnpj>
+                <InscricaoMunicipal>849644</InscricaoMunicipal>
+            </IdentificacaoPrestador>
+            <RazaoSocial>SAMUEL RICHARDSON GOMES DO AMARAL</RazaoSocial>
+            <Endereco>
+                <Endereco>R CLAUDIO ARAUJO</Endereco>
+                <Numero>000</Numero>
+                <Bairro>PARANGABA</Bairro>
+                <Cidade>2304400</Cidade>
+                <Estado>CE</Estado>
+                <Cep>60872563</Cep>
+            </Endereco>
+            <Contato>
+                <Telefone>(85)98645-5537</Telefone>
+                <Email>samuelgamaral@gmail.com</Email>
+            </Contato>
+        </PrestadorServico>
+        <TomadorServico>
+            <IdentificacaoTomador>
+                <CpfCnpj>
+                    <Cnpj>70717523000139</Cnpj>
+                </CpfCnpj>
+            </IdentificacaoTomador>
+            <RazaoSocial>TECH INOVACOES</RazaoSocial>
+            <Endereco>
+                <Endereco>Avenida A</Endereco>
+                <Numero>000</Numero>
+                <Bairro>Vila Velha</Bairro>
+                <Cidade>2304400</Cidade>
+                <Estado>CE</Estado>
+                <Cep>60347480</Cep>
+            </Endereco>
+            <Contato>
+                <Telefone>(85)3130-3892</Telefone>
+                <Email>financeiro@techinova.com.br</Email>
+            </Contato>
+        </TomadorServico>
+        <OrgaoGerador>
+            <CodigoMunicipio>2304400</CodigoMunicipio>
+            <Uf>CE</Uf>
+        </OrgaoGerador>
+    </Nfse>
+</NFSE>
