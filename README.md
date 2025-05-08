@@ -10,3 +10,5 @@ São feitas as seguintes verificações para detectar alguma inconsistência:
 A variável 'pasta_xml' armazena o caminho que contém os arquivos XML das Notas Fiscais.
 
 Ao executar, o script gera um arquivo EXCEL onde cada linha contém as informações para cada Nota Fiscal e os resultados das inconsistências.
+
+Obs: o script está parametrizado apenas para Notas Fiscais de Serviço Eletrônica emitidas em Fortaleza (o Estado e se a Nota Fiscal é de serviço, produto ou MEI influencia na parametrização do script)
